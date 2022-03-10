@@ -1,0 +1,45 @@
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.PRESENTACION.MenuPrincipal.resources
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.PRESENTACION.personal.resources
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.PRESENTACION.UserControl1.resources
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.Properties.Resources.resources
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.AssemblyInfo.cs
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\bin\Debug\net4.7.2-windows\Proyecto.exe.config
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\bin\Debug\net4.7.2-windows\Proyecto.exe
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\bin\Debug\net4.7.2-windows\Proyecto.pdb
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.exe
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Telerik\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.pdb
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\bin\Debug\net4.7.2-windows\Proyecto.exe.config
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\bin\Debug\net4.7.2-windows\Proyecto.exe
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\bin\Debug\net4.7.2-windows\Proyecto.pdb
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.PRESENTACION.MenuPrincipal.resources
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.Properties.Resources.resources
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.AssemblyInfo.cs
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.exe
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.pdb
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.PRESENTACION.Productos.resources
+C:\Users\PC\Documents\Visual C#\Migrando a c#\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.PRESENTACION.Ventas.resources
+D:\Usuario\Desktop\Proyecto\bin\Debug\net4.7.2-windows\Proyecto.exe.config
+D:\Usuario\Desktop\Proyecto\bin\Debug\net4.7.2-windows\Proyecto.exe
+D:\Usuario\Desktop\Proyecto\bin\Debug\net4.7.2-windows\Proyecto.pdb
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.PRESENTACION.MenuPrincipal.resources
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.PRESENTACION.Productos.resources
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.PRESENTACION.Ventas.resources
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.Properties.Resources.resources
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.csproj.GenerateResource.cache
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.AssemblyInfo.cs
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.exe
+D:\Usuario\Desktop\Proyecto\obj\Debug\net4.7.2-windows\Proyecto.pdb
